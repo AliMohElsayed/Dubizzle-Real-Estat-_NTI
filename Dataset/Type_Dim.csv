@@ -1,0 +1,46 @@
+Type,Furnished,Completion status,Delivery Term,Type_ID
+Apartment,No,Ready,Semi Finished,1
+Apartment,No,Ready,Finished,2
+Duplex,No,Ready,Semi Finished,3
+Duplex,No,Ready,Finished,4
+Apartment,Yes,Ready,Finished,5
+Apartment,No,Off-plan,Finished,6
+Apartment,No,Off-plan,Semi Finished,7
+Apartment,No,Ready,Core & Shell,8
+Apartment,No,Off-plan,Not Finished,9
+Penthouse,No,Off-plan,Finished,10
+Apartment,Yes,Off-plan,Finished,11
+Duplex,No,Off-plan,Finished,12
+Apartment,No,Off-plan,Core & Shell,13
+Duplex,No,Off-plan,Semi Finished,14
+Penthouse,No,Ready,Finished,15
+Apartment,No,Ready,Not Finished,16
+Studio,No,Ready,Finished,17
+Duplex,Yes,Ready,Finished,18
+Studio,No,Off-plan,Not Finished,19
+Studio,No,Off-plan,Finished,20
+Studio,Yes,Ready,Finished,21
+Studio,No,Off-plan,Semi Finished,22
+Studio,No,Ready,Semi Finished,23
+Duplex,No,Ready,Core & Shell,24
+Duplex,No,Off-plan,Not Finished,25
+Penthouse,No,Ready,Semi Finished,26
+Duplex,Yes,Off-plan,Finished,27
+Penthouse,Yes,Ready,Finished,28
+Penthouse,No,Ready,Core & Shell,29
+Apartment,Yes,Ready,Core & Shell,30
+Penthouse,No,Off-plan,Semi Finished,31
+Apartment,Yes,Off-plan,Semi Finished,32
+Duplex,No,Ready,Not Finished,33
+Studio,Yes,Off-plan,Finished,34
+Duplex,No,Off-plan,Core & Shell,35
+Penthouse,No,Ready,Not Finished,36
+Apartment,Yes,Ready,Semi Finished,37
+Duplex,Yes,Ready,Not Finished,38
+Penthouse,No,Off-plan,Core & Shell,39
+Penthouse,No,Off-plan,Not Finished,40
+Studio,No,Ready,Not Finished,41
+Studio,No,Ready,Core & Shell,42
+Studio,No,Off-plan,Core & Shell,43
+Penthouse,Yes,Off-plan,Finished,44
+Apartment,Yes,Off-plan,Not Finished,45

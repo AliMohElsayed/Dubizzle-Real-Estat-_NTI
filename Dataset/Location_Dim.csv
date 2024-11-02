@@ -1,0 +1,580 @@
+City,Location.1,Location_ID
+Cairo,Avelin Compound,1
+Cairo,Maadi View,2
+Cairo,Obour City,3
+Giza,Hadayek al-Ahram,4
+Cairo,Bloomfields,5
+Cairo,Haptown,6
+Cairo,Valeria Maadi,7
+Cairo,Mostakbal City,8
+Cairo,Galleria Moon Valley Compound,9
+Cairo,Madinaty,10
+Cairo,Sodic East,11
+Cairo,Al Hadaba Al Wosta,12
+Cairo,Sun Capital,13
+Cairo,Rosail City,14
+Cairo,New Cairo,15
+Cairo,Sarai,16
+Cairo,1st Settlement,17
+Gharbia,Tanta,18
+Cairo,EL Patio ORO Compound,19
+Damietta,New Damietta,20
+Cairo,Hyde Park New Cairo Compound,21
+Cairo,Nasr City,22
+Cairo,Fifth Square Compound,23
+Giza,Dokki,24
+Cairo,High City,25
+North Coast,Cali Coast,26
+Cairo,New Maadi,27
+Cairo,Sheraton Residence,28
+Cairo,Taj City Compound,29
+Cairo,Beit Al Watan,30
+Cairo,Creek Town Compound,31
+Cairo,5th Settlement,32
+Cairo,Rehab City Compound,33
+New Capital City,Al Maqsad,34
+Cairo,Maadi,35
+Alexandria,Montazah,36
+Cairo,Village West Compound,37
+Cairo,Mountain View iCity Compound,38
+Cairo,Alma Compound,39
+Cairo,Highland Park Compound,40
+Cairo,Sheraton,41
+Cairo,Arkan Palm 205,42
+Cairo,Lugar,43
+Cairo,De Joya Compound,44
+Cairo,El Maadi,45
+Banha,Sky City Banha,46
+Cairo,Badya Palm Hills Compound,47
+Cairo,Al Burouj,48
+Giza,Mohandessin,49
+New Capital City,MORAYA NEW CAPITAL,50
+Cairo,El Khamayel Compound,51
+North Coast,The Gate,52
+Red Sea,Hurghada,53
+Cairo,Badr City,54
+Sharqia,10th of Ramadan,55
+Cairo,Matareya,56
+Cairo,Ashrafeya Compound,57
+Cairo,Hadayek Al Mohandessin Compound,58
+Cairo,North House Compound,59
+Cairo,5th District,60
+New Capital City,City Oval,61
+Red Sea,Gouna,62
+Giza,Sheikh Zayed,63
+Giza,Faisal,64
+Alexandria,Smoha,65
+Cairo,Hadayek 6th of October,66
+Giza,Haram,67
+Cairo,Privado,68
+Cairo,Cattleya - Arabco Compound,69
+Cairo,Cairo Festival City,70
+Cairo,Al Narges,71
+Cairo,Al Defaa Al Watany Compound,72
+Cairo,Tag Sultan Compound,73
+New Capital City,Qamari,74
+Cairo,El Fostat,75
+Cairo,Trio Gardens Compound,76
+Cairo,Sama,77
+North Coast,Latin District,78
+Cairo,Mountain View 1 Compound,79
+Cairo,El Fardous Compound,80
+Cairo,New Zayed Compound,81
+Cairo,White residence Compound,82
+Alexandria,Fleming,83
+Dakahlia,Mansura,84
+Cairo,Acasa,85
+North Coast,Golf Porto Marina,86
+Cairo,El Lotus,87
+Cairo,Regents Park Compound,88
+Cairo,Noor City,89
+Cairo,New Heliopolis,90
+Fayoum,Yusuf al-Sadiq,91
+Cairo,Degla Gardens,92
+Cairo,Zayed Dunes Compound,93
+Giza,6th of October,94
+Cairo,Shorouk City,95
+Cairo,9th District,96
+Cairo,Galleria Compound,97
+Cairo,Helwan,98
+Cairo,Gharb Golf,99
+Alexandria,Azarita,100
+Cairo,Amorada Compound,101
+Damietta,Beit Al Watan,102
+Cairo,West Somid Compound,103
+Cairo,Northern Expansions,104
+Cairo,South 90 Street,105
+Alexandria,Dekheila,106
+Cairo,Bait Al Watan Al Takmely Compound,107
+Cairo,AZAD Compound,108
+Cairo,Family City Compound,109
+Cairo,Villette Compound,110
+Cairo,Hadayeq El Zeitoun,111
+Cairo,Ashgar City Compound,112
+Cairo,Solana,113
+Cairo,Beverly Hills Compound,114
+Cairo,Hadayek al-Kobba,115
+Cairo,El Banafseg 6,116
+Cairo,South of Academy,117
+Cairo,Eastown Compound,118
+Cairo,Al Rabwa,119
+Cairo,90 Avenue Compound,120
+Cairo,Downtown Cairo,121
+Cairo,The Butterfly,122
+Alexandria,Agami,123
+Cairo,El Karma Compound,124
+North Coast,Silver Sands,125
+New Capital City,R8,126
+Cairo,Palm Parks Compound,127
+Cairo,Palm Hills New Cairo Compound,128
+Cairo,O West Compound,129
+Alexandria,Sidi Beshr,130
+Cairo,Telal East,131
+Alexandria,Stanley,132
+Cairo,Rehab Mall 1,133
+Cairo,The Village Compound,134
+Cairo,Zed East Compound,135
+Cairo,The Address East Compound,136
+Cairo,Swan Lake Residences,137
+Cairo,Heliopolis,138
+Monufia,Shebin al-Koum,139
+Cairo,Karmell Compound,140
+North Coast,SOLARE,141
+Cairo,Mivida Compound,142
+Cairo,8th District,143
+Cairo,Gesr Al Suez,144
+Dakahlia,Mit Ghamr,145
+Cairo,Mountain View - October Park Compound,146
+Cairo,North Rehab,147
+Alexandria,Kafr Abdo,148
+Cairo,Monark Residence,149
+Cairo,Stone Residence Compound,150
+Cairo,El Banafseg 10,151
+Cairo,Sarayat El Kattameya,152
+Cairo,Rivali Compound,153
+Alexandria,Laurent,154
+Cairo,Green Revolution Compound,155
+Cairo,Promenade New Cairo Compound,156
+Cairo,Allegria Residence,157
+Cairo,Aria Compound,158
+Cairo,11th District,159
+Cairo,Mountain View 1.1,160
+Cairo,Zahraa Al Maadi,161
+New Capital City,Vinci,162
+Alexandria,Maamoura,163
+Cairo,Ivoire Compound,164
+Cairo,Rod al-Farag,165
+Cairo,Al Andalous,166
+Cairo,Solimar Green 3,167
+Cairo,Peerage Residence Compound,168
+Cairo,Tiba Gardens Compound,169
+Cairo,Valencia Valley Compound,170
+Giza,Hadayek October,171
+Cairo,Nyoum Mostakbal City,172
+Cairo,Stone Park Compound,173
+Cairo,Rock Vera Compound,174
+Cairo,New Narges,175
+Cairo,Uptown Cairo,176
+Cairo,Mokattam,177
+Alexandria,Glim,178
+Cairo,I-Sheraton,179
+Cairo,Marvel City Compound,180
+Cairo,ZED West Compound,181
+Cairo,Lake View Compound,182
+Cairo,16th District,183
+Cairo,Mountain View Hyde Park Compound,184
+Cairo,Reve du nil,185
+North Coast,Mazarine,186
+New Capital City,Catalan,187
+Port Said,Dawahy District,188
+Alexandria,Bolkly,189
+Cairo,Valore Sheraton,190
+Cairo,The Icon Residence Compound,191
+Cairo,Garnet Compound,192
+Cairo,The Waterway Compound,193
+Cairo,VYE Sodic Compound,194
+Cairo,Degla Palms Compound,195
+Cairo,Beta Greens,196
+Cairo,Wesal,197
+Giza,Boulaq Dakrour,198
+Cairo,10th District,199
+Cairo,Monte Napoleon,200
+Suez,Attaka,201
+Cairo,Lake view Residence Compound,202
+Cairo,Sodic Westown Compound,203
+Port Said,Arab District,204
+North Coast,Marassi,205
+Cairo,Tag Sultan,206
+Cairo,Aeon Compound,207
+Cairo,New Capital City,208
+Cairo,Murooj Compound,209
+Alexandria,Miami,210
+Cairo,Ivy Residence,211
+Cairo,Cairo Town Compound,212
+Cairo,Pyramids Hills Compound,213
+Cairo,Six West Compound,214
+Cairo,Aliva mostakbal city,215
+Cairo,Dar Misr,216
+Giza,Maryotaya,217
+Cairo,Al Hadaba Al Olya,218
+Cairo,District 5 Compound Compound,219
+Cairo,Cairo Gate,220
+Asyut,Asyut City,221
+New Capital City,R7,222
+Alexandria,Nakheel,223
+Cairo,El Banafseg 5,224
+New Capital City,Noor City,225
+Cairo,Al Manial,226
+Alexandria,Abu Qir,227
+Suez,Ain Sukhna,228
+Cairo,ONe33,229
+Qalyubia,Shubra al-Khaimah,230
+Gharbia,Mahalla al-Kobra,231
+New Capital City,Midtown Sky,232
+Alexandria,Saba Pasha,233
+Matruh,Alamein,234
+New Capital City,New Garden City,235
+Alexandria,Zezenia,236
+Cairo,New October,237
+Cairo,EL Patio 7,238
+Alexandria,Sawari,239
+Alexandria,Murooj,240
+Cairo,Amara Residence,241
+Cairo,El Mearag City,242
+Cairo,Garden Hills Compound,243
+North Coast,North Edge Towers,244
+Cairo,Karma Kay Compound,245
+Cairo,Ever Compound,246
+Cairo,Leaves Compound,247
+Cairo,Bliss Gate,248
+Cairo,El Patio Compound,249
+Cairo,Capital Gardens,250
+Alexandria,Sporting,251
+Cairo,Greens Compound,252
+Alexandria,Sidi Gaber,253
+North Coast,Palm Hills New Alamein,254
+Cairo,Rivers Compound,255
+Alexandria,San Stefano,256
+Cairo,East of Academy,257
+Cairo,New Giza Compound,258
+Cairo,Pyramids Wales Compound,259
+Alexandria,Alex West,260
+New Capital City,La Capital,261
+Cairo,Sky Ramp,262
+Alexandria,Bacchus,263
+Cairo,Park View Compound,264
+Qalyubia,Qanater al-Khairia,265
+South Sinai,Sharm al-Sheikh,266
+Cairo,Asmarat Heights,267
+Alexandria,Cleopatra,268
+Cairo,Joulz Compound,269
+Alexandria,Moharam Bik,270
+Cairo,New Andalous,271
+Cairo,South Investors,272
+Cairo,El Yasmeen 8,273
+Cairo,Moon City,274
+Cairo,Hyde Park Compound,275
+Cairo,Green Square,276
+Cairo,El Banafseg 2,277
+Cairo,Atrio Compound,278
+Cairo,Zayed Regency Compound,279
+Cairo,Lake View Residence 2,280
+Cairo,El Masrawia Compound,281
+Cairo,The Crest Compound,282
+Cairo,Mohammed Naguib Axis,283
+Cairo,Aria,284
+Cairo,Hadayek Helwan,285
+Cairo,4th District,286
+Cairo,El Koronfel,287
+Alexandria,Orouba Skyline,288
+Cairo,Talda Mostakbal City,289
+Alexandria,Roushdy,290
+Cairo,Cairo Gate Compound,291
+Alexandria,Al Ibrahimiyyah,292
+New Capital City,Lumia Residence,293
+Cairo,Allegria,294
+Cairo,Nest Cairo Compound,295
+Cairo,7th District,296
+New Capital City,R3,297
+Cairo,La Mirada,298
+New Capital City,Midtown Condo,299
+Cairo,IL Bosco City,300
+Cairo,Elora Compound,301
+Cairo,Kayan,302
+Cairo,The Brooks Compound,303
+Cairo,Park Valley Compound,304
+New Capital City,Capital Heights 2,305
+Cairo,Odyssia,306
+Cairo,Swan Lake West,307
+North Coast,Winter New Alamein,308
+Cairo,Jazebeya,309
+Cairo,1st District,310
+Cairo,One Kattameya,311
+Cairo,Garden Lakes,312
+Cairo,El Banafseg 11,313
+Alexandria,Gianaclis,314
+Cairo,Village Gate Compound,315
+Cairo,Marriott Residence,316
+Cairo,Porto Heliopolis Compound,317
+Cairo,Cairo Festival City Compound,318
+Cairo,Nyoum October Compound,319
+Cairo,Korba Heights,320
+Red Sea,Blue Blue,321
+Alexandria,Karmous,322
+New Capital City,Armonia,323
+Cairo,El Banafseg 4,324
+Cairo,Banafsag Omarat,325
+New Capital City,Celia,326
+Cairo,13th District,327
+Cairo,Midtown Compound,328
+Cairo,Maadi Gardens,329
+Cairo,Al Yasmine,330
+Cairo,City Gate Compound,331
+Cairo,Ain Shams,332
+Damietta,Ras al-Bar,333
+Cairo,Sky Condos Sodic Compound,334
+Cairo,The Square Compound,335
+North Coast,Stella Marina,336
+Giza,Agouza,337
+New Capital City,Stau,338
+Cairo,Dyar Compound,339
+Cairo,L’Avenir,340
+Cairo,Casa Compound,341
+Cairo,Arena City Towers Compound,342
+Cairo,Sephora Heights,343
+Cairo,North 90 Street,344
+Alexandria,Bahray - Anfoshy,345
+Hurghada,Makadi Heights,346
+Cairo,Tamr Henna Compound,347
+Cairo,EL Patio Casa,348
+Alexandria,Asafra,349
+Cairo,West Arabella Compound,350
+Cairo,El Karnak Compound,351
+Cairo,Hayah Residence,352
+Cairo,Katameya,353
+Cairo,Jewar Compound,354
+Cairo,Creek Park Compound,355
+Cairo,Belle Vie Compound,356
+Cairo,Andalus,357
+Cairo,Palm Hills Katameya Compound,358
+Cairo,Palm hills golf extension Compound,359
+Cairo,Moon Valley Compound,360
+Cairo,El Yasmeen 1,361
+North Coast,Amwaj,362
+North Coast,Zoya Ghazala Bay,363
+Cairo,Kattameya Gardens Compound,364
+Cairo,The Address,365
+Giza,Giza District,366
+New Capital City,OIA,367
+Cairo,3rd District,368
+North Coast,Hacienda West,369
+Cairo,Zamalek,370
+North Coast,Seashell,371
+Cairo,Naia West Compound,372
+Cairo,Moon Valley 2,373
+Cairo,Etapa Compound,374
+North Coast,Seashore,375
+Cairo,One 16 Compound,376
+Cairo,El Yasmeen 7,377
+Cairo,Al Diyar Compound,378
+Cairo,Century City Compound,379
+Cairo,October Plaza Sodic Compound,380
+Cairo,El Banafseg 9,381
+Cairo,Garden City,382
+Cairo,Blue Tree Compound,383
+Cairo,Orla Residence Compound,384
+North Coast,Azha,385
+Red Sea,The Groove,386
+Cairo,El Banafseg 1,387
+Alexandria,Mandara,388
+North Coast,Mountain View North Coast,389
+North Coast,Mountain View LVLS,390
+Cairo,Operetta Greens,391
+Cairo,Almazah,392
+Alexandria,Seyouf,393
+Cairo,The Axis Compound,394
+Red Sea,La Vista 7,395
+Cairo,Helmeyat El Zaytoun,396
+North Coast,Downtown,397
+North Coast,Fouka Bay,398
+Cairo,Brix Compound,399
+Alexandria,Palm Hills Alexandria,400
+Cairo,EL Shouyfat,401
+Matruh,North Coast,402
+Cairo,3rd Settlement,403
+Cairo,Dar al-Salaam,404
+Cairo,Baron City,405
+Cairo,El Yasmeen 6,406
+North Coast,Alamein Towers,407
+Cairo,Qasr al-Nil,408
+Damietta,Ethmar Compound,409
+Cairo,Degla View,410
+Cairo,Boulaq Abo El Ela,411
+North Coast,Jefaira,412
+Cairo,El Yasmeen 3,413
+Alexandria,Camp Caesar,414
+Cairo,Continental Gardens Compound,415
+Cairo,El Ashgar District Compound,416
+Cairo,Zahraa Madinat Nasr,417
+Dakahlia,Zahya,418
+Cairo,2nd District,419
+Cairo,Royal City Compound,420
+Matruh,Dabaa,421
+Cairo,Notion Compound,422
+North Coast,Koun,423
+Cairo,Dar Misr Compound,424
+Cairo,Karma Residence Compound,425
+Red Sea,Makadi Heights,426
+North Coast,Mar Bay,427
+Cairo,Gardenia Heights,428
+New Capital City,IL Bosco,429
+Cairo,Gardenia Compound,430
+Cairo,Abasiya,431
+Cairo,Tijan,432
+North Coast,Telal North Coast,433
+Cairo,Koronfel Heights Compound,434
+Alexandria,Valore Antoniades,435
+Red Sea,Telal Sokhna,436
+North Coast,Ras Al Hekma,437
+North Coast,Gaia,438
+Cairo,Arabia Compound,439
+Cairo,El Yasmeen 4,440
+Cairo,Kattameya Gate,441
+North Coast,Al Shorouk,442
+Alexandria,Victoria,443
+Cairo,Bab al-Shereia,444
+Cairo,Helmeya al-Gadeda,445
+Cairo,ABHA Compound,446
+Cairo,Smart Life Compound,447
+Cairo,Mena Residence Compound,448
+Alexandria,Abu Talat,449
+Cairo,Ivoire East Compound,450
+Cairo,The Estates Compound,451
+New Capital City,De Joya,452
+Cairo,Maadi Grand City,453
+Cairo,Go Heliopolis Compound,454
+Cairo,North Investors,455
+Cairo,Shubra,456
+Sharqia,Zagazig,457
+Cairo,Green 5 Compound,458
+Cairo,Village Gardens Katameya Compound,459
+Cairo,Aeon,460
+New Capital City,The Loft,461
+Cairo,Degla Landmark Compound,462
+Cairo,Alca New Cairo Compound,463
+Cairo,Porto New Cairo - Nyoum Compound,464
+North Coast,Bungalows,465
+Cairo,The Courtyards Compound,466
+Cairo,Yellow residence Compound,467
+Cairo,Knights,468
+Cairo,Mar Ville New Zayed,469
+Ismailia,Ismailia City,470
+Cairo,Neopolis,471
+Cairo,Degla Towers Compound,472
+Dakahlia,The Pearl,473
+Cairo,Eelaf Residence Compound,474
+Cairo,Katameya Plaza Compound,475
+New Capital City,Residence 8,476
+Cairo,GCR Golf City,477
+North Coast,June Sodic,478
+Cairo,Green Oasis,479
+Suez,Suez District,480
+North Coast,South Med,481
+Cairo,Haram City Compound,482
+Cairo,Al Wahat Road,483
+Cairo,Leila Compound,484
+Cairo,El Banafseg 7,485
+Cairo,Beta Gardens,486
+Cairo,Al Bashayer District,487
+Cairo,El Shorouk 2000,488
+Cairo,Riviera Heights Compound,489
+Cairo,Nakheel Residence,490
+Cairo,New Nozha,491
+Cairo,Nyoum Pyramids,492
+Cairo,Green Hills,493
+North Coast,Cleopatra,494
+Cairo,Art City,495
+Cairo,Mountain View Executive Compound,496
+New Capital City,Scene 7,497
+Cairo,Forty West - Sodic Compound,498
+Cairo,Cleo East Compound,499
+Cairo,Green 3 Compound,500
+Alexandria,Safwa Dream,501
+Cairo,The View Compound,502
+Cairo,Dreamland Compound,503
+Cairo,Swan Lake Katameya Compound,504
+Cairo,Jayd Compound,505
+Cairo,Tura,506
+Cairo,American University Housing,507
+New Capital City,Downtown,508
+Alexandria,Raml Station,509
+New Capital City,Sky Capital,510
+Cairo,Zizinia El Mostakbal,511
+Alexandria,Manshiyya,512
+Cairo,El Karma 4 Compound,513
+Cairo,Skyline,514
+Cairo,PX Palm Hills,515
+Minya,Minya City,516
+Beheira,Damanhour,517
+New Capital City,Ray Residence,518
+Dakahlia,New Mansoura,519
+Cairo,El Yasmeen 2,520
+Cairo,Salam City,521
+North Coast,El Masyaf,522
+Cairo,Zizinia Gardens Compound,523
+Cairo,Opera City Compound,524
+Cairo,Ramses + Ramses Extension,525
+North Coast,El Maadi,526
+Alexandria,King Mariout,527
+Cairo,Grand Gate,528
+Matruh,Marsa Matrouh,529
+New Capital City,Yaru,530
+Cairo,The Gate Plaza,531
+North Coast,Hacienda White,532
+Cairo,Gharb Golf & Extension Compound,533
+New Capital City,The City,534
+Cairo,Joya Compound,535
+Cairo,La Mirada Compound,536
+North Coast,El Zohour,537
+Cairo,Heliopolis Residence,538
+Cairo,Turath Villas,539
+Cairo,City View Compound,540
+Giza,Tersa,541
+North Coast,Hacienda Waters,542
+New Capital City,Capital Gardens,543
+Cairo,Abu Al-Hool,544
+Cairo,Belva,545
+Cairo,Ezbet El Nakhl,546
+Cairo,Stone Residence,547
+Cairo,Rehab October City,548
+Red Sea,IL Monte Galala,549
+Cairo,Nile Boulevard Compound,550
+North Coast,Plage,551
+Cairo,Mountain View Chillout Park Compound,552
+New Capital City,Pukka,553
+Red Sea,Aroma Residence,554
+Cairo,Arkan Plaza,555
+North Coast,Blumar North Coast,556
+Cairo,Rayos Compound,557
+Cairo,EL Patio 5,558
+Cairo,Rawdat Zayed Compound,559
+Red Sea,Marsa Alam,560
+New Capital City,Il Mondo,561
+Giza,Imbaba,562
+Cairo,Royal Maxim Compound,563
+New Capital City,Anakaji,564
+Cairo,Nakheel Compound,565
+Cairo,El Banafseg 12,566
+North Coast,Direction White,567
+Cairo,Masr al-Kadema,568
+Cairo,Granda Life,569
+Cairo,Rock Eden,570
+North Coast,Alura,571
+North Coast,Marseilia Beach 4,572
+Cairo,Mirage City Compound,573
+Cairo,Ritage Compound,574
+Alexandria,Wardian,575
+Cairo,Golden Square,576
+Giza,Kit Kat,577
+Cairo,Zayed 2000 Compound,578
+North Coast,Porto Golf Marina,579
