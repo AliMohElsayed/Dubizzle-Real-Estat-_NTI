@@ -34,4 +34,4 @@ Tools Used:
 
 🔹MySQL 🗄️
 
-🔹Power BI & Tableau 📊
+🔹Power BI , Excel & Tableau 📊
